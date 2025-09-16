@@ -12,9 +12,9 @@ Dynamic and Visually Appealing Menu: The menu features large, high-quality image
 
 ### 🛒 Interactive Cart System: Users can add multiple dishes to their cart, which dynamically updates the total price in real time.
 
-✨ Gemini API Integration: The app includes a section powered by the Gemini API, where users can generate new dish ideas or visualize them with an image.
+### ✨ Gemini API Integration: The app includes a section powered by the Gemini API, where users can generate new dish ideas or visualize them with an image.
 
-✅ Order Placement Simulation: A functional "Place Order" button simulates the end-to-end ordering process.
+### ✅ Order Placement Simulation: A functional "Place Order" button simulates the end-to-end ordering process.
 
 ## 🛠️ Technologies Used
 
@@ -23,8 +23,6 @@ Dynamic and Visually Appealing Menu: The menu features large, high-quality image
 ### Tailwind CSS: A utility-first CSS framework for rapid and responsive styling.
 
 ### JavaScript: For all interactive functionality, including menu rendering, cart management, and API calls.
-
-### Firebase: Utilized for user authentication and real-time data storage, ensuring persistent and secure user sessions.
 
 ## 🚀 Getting Started
 
