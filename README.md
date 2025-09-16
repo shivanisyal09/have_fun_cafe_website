@@ -1,4 +1,4 @@
-ave Fun Cafe
+Have Fun Cafe
 This project is a modern, single-page web application designed for a cafe, offering a visually rich and interactive online menu with a seamless ordering experience. It is built to be fully responsive, ensuring an excellent user experience on all devices.
 
 Key Features:
